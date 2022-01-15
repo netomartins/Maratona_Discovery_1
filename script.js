@@ -1,0 +1,11 @@
+
+const Modal = {
+  open() {
+    
+  },
+
+    close() {
+
+    }
+
+};
